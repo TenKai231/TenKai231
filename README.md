@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm TenKai 👋
 
-<!--
-**TenKai231/TenKai231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 I enjoy building and learning through real projects.
+- 🌱 I’m currently improving my coding skills every day.
+- 🤝 I’m open to collaboration on interesting ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Languages: `JavaScript`, `TypeScript`, `Python`
+- Tools: `Git`, `GitHub`, `VS Code`
+
+## 📫 Contact
+- GitHub: [@TenKai231](https://github.com/TenKai231)
+
+---
+Thanks for visiting my profile ⭐
